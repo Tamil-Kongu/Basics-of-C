@@ -1,0 +1,2 @@
+print("KEC")
+print("GIT")
